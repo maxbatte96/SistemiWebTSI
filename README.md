@@ -1,5 +1,4 @@
-# SistemiWebTSI
-W3C VALIDATED
+# SistemiWebTSI (W3C VALIDATED)
 
 Progetto d'esame per il corso Fondamenti Di Sistemi Web di Tecnologie di Sistemi Informatici
 
